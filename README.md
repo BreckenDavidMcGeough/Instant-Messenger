@@ -1,4 +1,4 @@
-Instant Messenger
+CSE220:Systems Programming - Instant Messenger
 ===
 
 You should have received a detailed handout for this project.  Be sure
